@@ -1,5 +1,5 @@
 # Airbnb-Activity-Investigation
-# Predicting the price for an Airbnb Host in Berlin sing XGboost Linear Regression
+Predicting the price for an Airbnb Host in Berlin sing XGboost Linear Regression
 This is a solution to the [problem statment](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) provide by CodeAsylums for the Hackfest'19 IIT (ISM) Dhanbad.
 
 # Context
