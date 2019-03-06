@@ -1,6 +1,6 @@
 # Airbnb-Activity-Investigation
 Predicting the price for an Airbnb Host in Berlin sing XGboost Linear Regression
-This is a solution to the [problem statment](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) provide by CodeAsylums for the Hackfest'19 IIT (ISM) Dhanbad.
+This is a solution to the [problem statement](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) provide by CodeAsylums for the Hackfest'19 IIT (ISM) Dhanbad.
 
 # Context
 Airbnb has successfully disrupted the traditional hospitality industry as more and more travelers decide to use Airbnb as their primary accommodation provider. Since its beginning in 2008, Airbnb has seen an enormous growth, with the number of rentals listed on its website growing exponentially each year. In Germany, no city is more popular than Berlin. That implies that Berlin is one of the hottest markets for Airbnb in Europe, with over 22,552 listings as of November 2018.
